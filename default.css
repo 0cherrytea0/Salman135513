@@ -100,3 +100,10 @@ a {
   font-size: 25px;
   font-family: monospace;
 }
+/* Force countdown text and numbers to black */
+#clock-box,
+#clock-box #clock,
+#clock-box #clock .digit,
+#clock-box a {
+  color: #000000 !important;
+}
