@@ -104,3 +104,9 @@ a {
   font-size: 25px;
   font-family: monospace;
 }
+html body #wrap #clock-box,
+html body #wrap #clock-box #clock,
+html body #wrap #clock-box #clock .digit {
+  color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
+}
