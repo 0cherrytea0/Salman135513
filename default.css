@@ -10,7 +10,7 @@ body {
   overflow: auto;
 }
 a {
-  color: white;
+  color: gray;
   font-size: 14px;
 }
 #main {
